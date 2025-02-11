@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, My name is Tikesh Raj
+
+- 🔭 I’m currently working on data analytics, focusing on data cleaning, bike sales analysis, and employee salary analysis.  
+- 🌱 I’m currently learning Python, SQL, and Power BI to enhance my data analytics skills.  
+- 👯 I’m looking to collaborate on data-driven projects, especially those involving data visualization and business insights.  
+
 
 <!--
 **TikeshRaj/TikeshRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
