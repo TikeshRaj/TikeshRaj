@@ -1,21 +1,14 @@
-## Hi there 👋, My name is Tikesh Raj
-
-- 🔭 I’m currently working on data analytics, focusing on data cleaning, bike sales analysis, and employee salary analysis.  
-- 🌱 I’m currently learning Python, SQL, and Power BI to enhance my data analytics skills.  
-- 👯 I’m looking to collaborate on data-driven projects, especially those involving data visualization and business insights.  
+## 👋 Hi there! I'm Tikesh Raj
 
 
-<!--
-**TikeshRaj/TikeshRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Data Analyst 📊 with expertise in Python, MySQL, Excel, Power BI, and Tableau. I love uncovering insights from data and making data-driven decisions. Currently, I'm working on projects related to data cleaning, 📊 Data Visualization, 📝 Data Analysis.
+
+🚀 Skills & Tools
+
+🖥 Programming: Python 🐍 (Pandas, NumPy, Matplotlib, Seaborn), 
+SQL (MySQL)📊 Data Visualization: Power BI 📈, Tableau 📊, Matplotlib, Seaborn
+📝 Data Analysis & Cleaning: Excel (Pivot Tables, VLOOKUP), Pandas, 
+SQL queries🗄 Databases: MySQL 🛢, PostgreSQL 🗄🛠 Other: Git 🔗, Jupyter Notebook 📓, Google Sheets 📑
