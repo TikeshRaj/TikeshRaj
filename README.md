@@ -28,9 +28,9 @@ Aspiring Data Analyst with a passion for turning raw data into meaningful insigh
 - Automated data updates for **real-time business monitoring**.
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **Email**: [Your Email Address]
+- **LinkedIn**: [Tikesh Raj](https://www.linkedin.com/in/tikesh-raj/)
+- **GitHub**: [TikeshRaj ](https://github.com/TikeshRaj)
+- **Email**: [tikeshraj211@gmail.com]
 
 📌 Always eager to learn and collaborate on exciting data-driven projects! 🚀
 
