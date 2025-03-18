@@ -30,7 +30,7 @@ Aspiring Data Analyst with a passion for turning raw data into meaningful insigh
 ## 📫 Connect with Me
 - **LinkedIn**: [Tikesh Raj](https://www.linkedin.com/in/tikesh-raj/)
 - **GitHub**: [TikeshRaj ](https://github.com/TikeshRaj)
-- **Email**: [tikeshraj211@gmail.com]
+- **Email**: tikeshraj211@gmail.com
 
 📌 Always eager to learn and collaborate on exciting data-driven projects! 🚀
 
